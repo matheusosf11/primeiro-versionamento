@@ -2,4 +2,8 @@
 Essa e a minha primeira modificacao de arquivo.
 Vou fazer um commit.
 
-# estou conseguindo fazer meu commit normalmente.
+# TITULO
+estou conseguindo fazer meu commit normalmente.
+
+# Subtitulo
+agora estou modificando meu arquivo pela nuvem.
